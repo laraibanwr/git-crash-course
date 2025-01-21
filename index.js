@@ -7,3 +7,7 @@ console.log(`My name is ${name}`)
 function featureA(){
     console.log("This is function A");
 }
+
+function featureB(){
+    console.log("This is feature B");
+}
